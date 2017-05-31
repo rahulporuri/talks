@@ -10,3 +10,6 @@ interested.
 
 If you have any comments/corrections/suggestions regarding the contents of the
 Jupyter Notebooks, please open an issue on the repository.
+
+
+Extending Python is here - https://nbviewer.jupyter.org/github/jakevdp/2013_fall_ASTR599/blob/master/notebooks/19_ExtendingPython.ipynb
