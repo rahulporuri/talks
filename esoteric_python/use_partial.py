@@ -3,5 +3,5 @@ from functools import partial
 
 
 if __name__ == "__main__":
-    range = partial(range, 10)
-    print(range(20))
+    custom_print = partial(print, sep='-', end='\n*******\n')
+    custom_print(1, 2, 3, 4)
